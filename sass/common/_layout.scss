@@ -1,0 +1,30 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  width: 800px;
+  font: 14px / 1.42858 Arial;
+  color: $text-color;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border: 0 none;
+}
+
+:focus {
+  outline: 0 none;
+}
+
+.footer {
+  margin: 0;
+  padding: 30px 0;
+  text-align: center;
+  border-top: 1px solid #eee;
+}
