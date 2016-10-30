@@ -17,7 +17,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 ```shell
 # 克隆代码到本地
-git clone 
+git clone https://github.com/hjxenjoy/gulp-express-server.git
 # 进入文件夹
 cd gulp-express-server
 # 使用淘宝镜像源和包管理工具cnpm安装全部依赖
