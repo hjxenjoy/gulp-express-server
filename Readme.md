@@ -77,7 +77,7 @@ ejs网页模板存放目录
 
 下面解释下代码具体含义
 
-```html
+```ejs
 <%- include('partials/head', {
   title: '首页',
   css: '/styles/home.min.css'
